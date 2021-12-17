@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.linkedin.com/in/aninda-mandal-631288216/">
+<a href="https://www.linkedin.com/in/aninda-mandal/">
   <img align="left" alt="Aninda Mandal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
