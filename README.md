@@ -50,7 +50,7 @@ Microsoft PowerBi
 </p>
 <!-- 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aninda20.aninda20" alt="visitor badge"/>
+  <img src="![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)" alt="visitor badge"/>
 </p>
 
 ----- -->
