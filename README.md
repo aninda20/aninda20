@@ -43,17 +43,18 @@ Natural Language processing <br>
 Alteryx <br>
 Microsoft PowerBi
 
-
+<!--
 <br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aninda20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aninda Mandal's Github Stats">
 </p>
-<!-- 
+-->
+ 
 <p align='center'>
-  <img src="![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aninda20.aninda20" alt="visitor badge"/>
 </p>
 
------ -->
+
 
 
 
