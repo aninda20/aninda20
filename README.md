@@ -17,18 +17,9 @@ Here are some ideas to get you started:
      -->
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Aninda Mandal. 
+### Hello! I'm Aninda Mandal
 
-### 👨‍💻 Languages and Tools
-C++ <br>
-Python <br>
-Web Development <br>
-Wordpress <br>
-Azure <br>
-Data Science <br>
-Natural Language processing <br>
-Alteryx <br>
-Microsoft PowerBi
+
 
 
 <a href="https://www.linkedin.com/in/aninda-mandal/">
@@ -41,7 +32,16 @@ Microsoft PowerBi
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-
+### 👨‍💻 Languages and Tools
+C++ <br>
+Python <br>
+Web Development <br>
+Wordpress <br>
+Azure <br>
+Data Science <br>
+Natural Language processing <br>
+Alteryx <br>
+Microsoft PowerBi
 
 <!--
 <br>
