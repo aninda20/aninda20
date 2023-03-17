@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      -->
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Aninda Mandal, a Software Developer from India. 
+### Hello! I'm Aninda Mandal. 
 
 
 
@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-### 👨‍💻 Languages and Tools
-C++ <br>
-Python <br>
-Web Development <br>
-Wordpress <br>
-Azure <br>
-Data Science <br>
-Natural Language processing <br>
-Alteryx <br>
-Microsoft PowerBi
+#👨‍💻 Languages and Tools
+#C++ <br>
+#Python <br>
+#Web Development <br>
+#Wordpress <br>
+#Azure <br>
+#Data Science <br>
+#Natural Language processing <br>
+#Alteryx <br>
+#Microsoft PowerBi
 
 <!--
 <br>
