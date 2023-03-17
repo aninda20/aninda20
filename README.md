@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 
 ### Hello! I'm Aninda Mandal. 
 
-
+### 👨‍💻 Languages and Tools
+C++ <br>
+Python <br>
+Web Development <br>
+Wordpress <br>
+Azure <br>
+Data Science <br>
+Natural Language processing <br>
+Alteryx <br>
+Microsoft PowerBi
 
 
 <a href="https://www.linkedin.com/in/aninda-mandal/">
