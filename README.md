@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 </p>
 -->
  
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aninda20.aninda20" alt="visitor badge"/>
-</p>
 
 
 
