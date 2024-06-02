@@ -41,19 +41,6 @@ Here are some ideas to get you started:
 </p>
 -->
  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Follow Button</title>
-</head>
-<body>
-    <h1>Follow me on GitHub</h1>
-    <a class="github-button" href="https://github.com/aninda20" data-size="large" data-show-count="false" aria-label="Follow @YOUR_USERNAME on GitHub">Follow @YOUR_USERNAME</a>
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
-</body>
-</html>
 
 
 
