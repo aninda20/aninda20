@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      -->
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Aninda
+### Hello! I'm Aninda 👋
 
 
 
