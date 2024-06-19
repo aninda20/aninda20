@@ -10,16 +10,7 @@ I’m Aninda, a software engineer, creative coder and user interface dessigner. 
 Want to know more about me? [Check out my portfolio.](https://www.anindamandal.com/)
 
 
-
-
-## &#x1f4c8; GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=aninda20&theme=dark&hide_border=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 ## 💼 Skills
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,6 +58,14 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-%23000000.svg?style=for-the-badge&logo=threat&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=ci-cd&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=aninda20&theme=dark&hide_border=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+
 
 
 
