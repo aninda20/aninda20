@@ -17,12 +17,13 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 <br>
 
 <a href="https://github.com/aninda20">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninda20&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="[https://github-readme-streak-stats.herokuapp.com/?user=aninda20&theme=dark&hide_border=true))" />
 </a>
 
 <a href="https://github.com/aninda20">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aninda20&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninda20&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)" />
 </a>
+
 
 <br>
 <br>
