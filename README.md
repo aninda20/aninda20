@@ -1,4 +1,4 @@
-[Hi I'm](https://github.com/aninda20/aninda20/assets/53020383/9d47f784-5487-4290-9272-743595822bb5)/>
+[![Hi I'm](https://github.com/aninda20/aninda20/assets/53020383/9d47f784-5487-4290-9272-743595822bb5)>
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/aninda20/aninda20)](https://www.anindamandal.com/)
