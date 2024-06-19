@@ -27,6 +27,9 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 <br>
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -66,5 +69,7 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=4AB197)
 
 </details>
+
+
 
 
