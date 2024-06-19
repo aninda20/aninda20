@@ -52,12 +52,6 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%23000000.svg?style=for-the-badge&logo=cloud&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge&logo=oop&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-%23000000.svg?style=for-the-badge&logo=threat&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=ci-cd&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aninda20&theme=dark&hide_border=true)
