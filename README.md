@@ -1,7 +1,6 @@
-[![Hi I'm](https://github.com/aninda20/aninda20/assets/53020383/9d47f784-5487-4290-9272-743595822bb5)>
+![Hi I'm](https://github.com/aninda20/aninda20/assets/53020383/9d47f784-5487-4290-9272-743595822bb5)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/aninda20/aninda20)](https://www.anindamandal.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aninda-mandal/)
 
 Hey there 👋
