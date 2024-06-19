@@ -9,6 +9,32 @@ I’m Aninda, a software engineer, creative coder and user interface designer. I
 
 Want to know more about me? [Check out my portfolio.](https://www.anindamandal.com/)
 
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/aninda20/college-chat-website">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aninda20&repo=college-chat-website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/aninda20/online-learning-sentimental-analysis-webapp">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aninda20&repo=online-learning-sentimental-analysis-webapp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/aninda20/emotion-recognition">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aninda20&repo=emotion-recognition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aninda20/Community_Hub.">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aninda20&Community_Hub.&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
 
 ## 💼 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
