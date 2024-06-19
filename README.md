@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Aninda, a software engineer, creative coder and user interface dessigner. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Aninda, a software engineer, creative coder and user interface designer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio.](https://www.anindamandal.com/)
 
