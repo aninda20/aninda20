@@ -86,7 +86,6 @@ Want to know more about me? [Check out my portfolio.](https://www.anindamandal.c
 ![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 [![Readme Quotes]([![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Discipline%20is%20talent)](https://github.com/aninda20)
-)](https://github.com/aninda20)
 
 
 
